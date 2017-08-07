@@ -1,0 +1,19 @@
+.body-back {
+  background-color: #A9D0F5 !important;
+  background: url(../img/fondo-arequipa-yanahuara.jpg) no-repeat;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: left 150px;
+}
+
+.cabecera {
+  margin-top: 10px;
+  height: 230px;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+  font-style: italic;
+  color: white;
+}
