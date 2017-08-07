@@ -4,6 +4,8 @@
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: left 150px;
+  min-width: 357px;
+
 }
 
 .cabecera {
@@ -16,4 +18,8 @@ h1 {
   font-size: 2em;
   font-style: italic;
   color: white;
+}
+
+.boton-navegacion {
+  padding-right: 4px !important;
 }
